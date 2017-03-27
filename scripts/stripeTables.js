@@ -15,5 +15,6 @@ function stripeTables() {
 		}
 	}
 }
+
 addLoadEvent(stripeTables);
 
